@@ -121,7 +121,7 @@ export default function DiwaliEnvelope() {
               </div>
 
               {/* Message */}
-              <h2 className="message-title">Happy Diwali!</h2>
+              <h2 className="message-title">Happy Diwali Ritu😘</h2>
               
               <p className="message-text">
                 May the festival of lights illuminate your life with joy, prosperity, and endless happiness. Wishing you a sparkling and blessed Diwali filled with love and laughter! ✨🪔
